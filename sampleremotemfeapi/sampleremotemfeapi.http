@@ -1,0 +1,6 @@
+@sampleremotemfeapi_HostAddress = http://localhost:5064
+
+GET {{sampleremotemfeapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
